@@ -1,0 +1,5 @@
+Warning: Permanently added 'c209-031' (ECDSA) to the list of known hosts.
+WARNING (03/01/24 03:23:37): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6138903.hostlist.Sicv2MoM to get hosts
+starting job on c209-031
+starting job on c210-003
